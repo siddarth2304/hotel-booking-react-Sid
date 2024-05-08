@@ -129,7 +129,7 @@ const Login = () => {
                 <div className="absolute left-0 right-0 flex justify-center items-center">
                   <div className="border-t w-full absolute"></div>
                   <span className="bg-white px-3 text-gray-500 z-10">
-                    New to Stay Booker?
+                    New to Our Hotel?
                   </span>
                 </div>
               </div>
