@@ -9,7 +9,7 @@ const AboutUs = () => {
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-4xl font-extrabold text-brand mb-2">About Us</h1>
       <p className="text-lg mb-8">
-        Welcome to <span className="text-brand">STAY BOOKER</span>, where we are
+        Welcome to <span className="text-brand">BackBenchers</span>, where we are
         dedicated to providing you with the best experience for booking hotels
         around the world. Our mission is to make your travel comfortable,
         convenient, and memorable.
@@ -17,7 +17,7 @@ const AboutUs = () => {
 
       <h2 className="text-3xl font-extrabold text-brand mb-2">Our Vision</h2>
       <p className="text-lg mb-8">
-        At <span className="text-brand">STAY BOOKER</span>, we envision a world
+        At <span className="text-brand">BackBenchers</span>, we envision a world
         where every traveler finds the perfect accommodation that suits their
         needs and preferences. We aim to simplify the hotel booking process,
         offering a wide range of options for every budget.
@@ -62,7 +62,7 @@ const AboutUs = () => {
         . We're here to help!
       </p>
       <p className="text-lg">
-        Thank you for choosing <span className="text-brand">STAY BOOKER</span>.
+        Thank you for choosing <span className="text-brand">BackBenchers</span>.
         We look forward to being your go-to platform for all your hotel booking
         needs.
       </p>
